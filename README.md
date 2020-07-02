@@ -1,7 +1,7 @@
 # Kaggle's Quora Duplicate Question Detection
 
 ![](https://colab.research.google.com/assets/colab-badge.svg)
-![](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle)
+![](https://www.kaggle.com/static/images/site-logo.png)
 
 This repo is the solution for the competition held on kaggle previously whihc can be found via the link: https://www.kaggle.com/c/quora-question-pairs
 
